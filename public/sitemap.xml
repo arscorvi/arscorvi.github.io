@@ -2,10 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/code/</loc>
-    <lastmod>2026-04-18T19:37:42+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-19T15:32:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/characters/canto/</loc>
+    <lastmod>2026-04-19T15:32:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/old/</loc>
+    <lastmod>2026-04-19T15:32:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-19T15:32:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/characters/rahai/</loc>
+    <lastmod>2026-04-19T15:30:27+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/characters/hero/</loc>
+    <lastmod>2026-04-19T15:30:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/code/</loc>
     <lastmod>2026-04-18T19:37:42+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/artwork/</loc>
@@ -18,12 +33,12 @@
     <lastmod>2026-04-18T16:14:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/current/</loc>
-    <lastmod>2026-04-17T14:04:12+01:00</lastmod>
+    <lastmod>2026-04-17T14:04:16+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/characters/espen/</loc>
+    <lastmod>2026-04-17T14:04:16+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/characters/levi/</loc>
-    <lastmod>2026-04-17T14:04:12+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-17T14:04:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/characters/yuri/</loc>
