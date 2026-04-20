@@ -1,0 +1,11 @@
+<body style="max-width: 100%;">
+<div class="md-columns">
+{{ range split .Inner "<--->" }}
+{{ printf "<div class=\"markdown-inner\">" | htmlUnescape | safeHTML }}
+<div style="max-width: 40em;">
+{{ . | safeHTML }}
+</div>
+{{ printf "</div>" | htmlUnescape | safeHTML }}
+{{ end }}
+</body>
+</div>

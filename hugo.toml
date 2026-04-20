@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "Crow's Nest"
+theme = 'arscorvi'
+
+[taxonomies]
+    tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style = 'native'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characters on Crow&#39;s Nest</title>
+    <link>http://localhost:1313/characters/</link>
+    <description>Recent content in Characters on Crow&#39;s Nest</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2026 14:04:12 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/characters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SS13 — Levi Ignis</title>
+      <link>http://localhost:1313/characters/levi/</link>
+      <pubDate>Fri, 17 Apr 2026 14:04:12 +0100</pubDate>
+      <guid>http://localhost:1313/characters/levi/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SPACE STATION 13&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;body style=&#34;max-width: 100%;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;md-columns&#34;&gt;&#xD;&#xA;&lt;div class=&#34;markdown-inner&#34;&gt;&#xD;&#xA;&lt;div style=&#34;max-width: 40em;&#34;&gt;&#xD;&#xA;&lt;h4 id=&#34;overview&#34;&gt;OVERVIEW&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;AGE&lt;/strong&gt;: 27-years-old&lt;br&gt;&#xA;&lt;strong&gt;RACE&lt;/strong&gt;: Human&lt;br&gt;&#xA;&lt;strong&gt;GENDER&lt;/strong&gt;: Male&lt;br&gt;&#xA;&lt;strong&gt;PROFESSION&lt;/strong&gt;: Medical Doctor&lt;br&gt;&#xA;&lt;strong&gt;BACKGROUND&lt;/strong&gt;: Hot-headed Lapdog&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A tempermental man most often seen working within the station&amp;rsquo;s medical department. Fiercely loyal to Nanotrasen and its interests, he can be a little unforgiving when it comes to matters of protocol and workplace security and is often angered by his colleague&amp;rsquo;s reckless behaviour. This underlying temper, however, is little more than a reluctant mask; in truth, he&amp;rsquo;s soft, caring, and compassionate, and will freely throw himself in harm&amp;rsquo;s way for the sake of others.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SS13 — Yuri Stratos</title>
+      <link>http://localhost:1313/characters/yuri/</link>
+      <pubDate>Fri, 17 Apr 2026 14:04:05 +0100</pubDate>
+      <guid>http://localhost:1313/characters/yuri/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;SPACE STATION 13&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;body style=&#34;max-width: 100%;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;md-columns&#34;&gt;&#xD;&#xA;&lt;div class=&#34;markdown-inner&#34;&gt;&#xD;&#xA;&lt;div style=&#34;max-width: 40em;&#34;&gt;&#xD;&#xA;&lt;h4 id=&#34;overview&#34;&gt;OVERVIEW&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;AGE&lt;/strong&gt;: 27-years-old&lt;br&gt;&#xA;&lt;strong&gt;RACE&lt;/strong&gt;: Human&lt;br&gt;&#xA;&lt;strong&gt;GENDER&lt;/strong&gt;: Male&lt;br&gt;&#xA;&lt;strong&gt;PROFESSION&lt;/strong&gt;: Medical Doctor/Director&lt;br&gt;&#xA;&lt;strong&gt;BACKGROUND&lt;/strong&gt;: Space-born Academic&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A soft-spoken man with a passion for medical sciences and research; largely reserved and well-mannered, he&amp;rsquo;s quietly content with both his life and his working environment and demonstrates a strict adherence to protocol and ethics. Though situations outside of his control often push him outside of his comfort zone, he remains resolute in his desire to keep his colleagues and the people around him safe and sound.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

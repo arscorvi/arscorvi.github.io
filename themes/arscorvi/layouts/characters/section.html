@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+{{ .Content }}
+
+<ul>
+    <li><b>CURRENT CHARACTERS</b></li>
+    <ul>
+  {{ range ($.Site.GetPage "tags" "current").Pages.ByDate }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+    </ul>
+</ul>
+
+<ul>
+    <li><b>OLD CHARACTERS</b></li>
+    <ul>
+  {{ range ($.Site.GetPage "tags" "old").Pages.ByDate }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+    </ul>
+</ul>
+
+{{ end }}
