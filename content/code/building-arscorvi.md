@@ -30,7 +30,7 @@ p {
 }
 ```
 
-This gave me the desired results, yes, but it broke everything else, too. Lists and horizontal rules were spilling out to absurd lengths and it was, frankly, *ugly*. I paniced. I tried changing the properties in the CSS that were responsible for the columns with the !important flag:
+This gave me the desired results, yes, but it broke everything else, too. Lists and horizontal rules were spilling out to absurd lengths and it was, frankly, *ugly*. I panicked. I tried changing the properties in the CSS that were responsible for the columns with the !important flag:
 
 ```css
 .md-columns {
