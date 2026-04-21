@@ -1,9 +1,3 @@
-+++
-date = '2026-04-18T16:14:26+01:00'
-draft = false
-title = 'Recommendations'
-+++
-
 Various book recommendations.
 
 {{% columns %}}

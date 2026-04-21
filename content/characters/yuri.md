@@ -5,8 +5,6 @@ title = 'SS13 — Yuri Stratos'
 tags = 'current'
 +++
 
-**SPACE STATION 13**
-
 {{% columns %}}
 
 #### OVERVIEW

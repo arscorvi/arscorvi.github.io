@@ -5,8 +5,6 @@ title = 'SS13 — Levi Ignis'
 tags = 'current'
 +++
 
-**SPACE STATION 13**
-
 {{% columns %}}
 
 #### OVERVIEW
