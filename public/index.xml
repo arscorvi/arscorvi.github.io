@@ -6,8 +6,15 @@
     <description>Recent content on Crow&#39;s Nest</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 16:54:24 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 16:46:53 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading for the Sake of Writing</title>
+      <link>http://localhost:1313/misc/reading/</link>
+      <pubDate>Sat, 25 Apr 2026 16:46:53 +0100</pubDate>
+      <guid>http://localhost:1313/misc/reading/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t read as much as I should. I have stacks upon stacks of books — spilling out of a bookshelf and across my desk, my coffee table, my other shelves — that are, for the most part, unread. Like many readers, I have a peculiar habit of frequently adding to my library and never quite catching up with it, and the time that I actually set aside for reading is becoming less and less.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Building arscorvi.github.io</title>
       <link>http://localhost:1313/code/building-arscorvi/</link>
