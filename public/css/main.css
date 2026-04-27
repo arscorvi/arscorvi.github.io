@@ -1,8 +1,12 @@
     :root {
-	--background-color: #161616;
-	--foreground-color: #ededed;
+	--background-color: #121118;
+	--foreground-color: #fBf7ef;
 	--link-color: #cf982e;
-    }
+	--green-color: #6a7d5f;
+	--blue-color: #638691;
+	--red-color: #a75141;
+	--gray-color: #7c7b77;
+}
 
 body {
     background: var(--background-color);
@@ -33,7 +37,7 @@ div.highlight {
 }
 
 .box {
-    color: #7a7a7a;
+    color: var(--gray-color);
   	margin: 20px 0 30px;
   	padding-left: 20px;
   	border-left: 1px solid var(--link-color);
@@ -56,4 +60,14 @@ div.highlight {
 .md-columns .markdown-inner {
 	margin-top: 0;
 	margin-bottom: 0;
+}
+
+.palette {
+	display: flex;
+	padding-left: 1em;
+}
+
+.palette .color {
+    width: 16px;
+    height: 16px;
 }
