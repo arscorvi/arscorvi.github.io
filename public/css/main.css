@@ -1,6 +1,6 @@
     :root {
 	--background-color: #121118;
-	--foreground-color: #fBf7ef;
+	--foreground-color: #fbf7ef;
 	--link-color: #cf982e;
 	--green-color: #6a7d5f;
 	--blue-color: #638691;
@@ -62,12 +62,24 @@ div.highlight {
 	margin-bottom: 0;
 }
 
-.palette {
+.palettebar {
 	display: flex;
 	padding-left: 1em;
 }
 
-.palette .color {
+.palettebar .color {
     width: 16px;
     height: 16px;
+}
+
+.palette {
+	display: flex;
+}
+
+.palette .color {
+  text-align: center;
+  vertical-align:center;
+  width: 128px;
+  height: 64px;
+  line-height: 64px;
 }

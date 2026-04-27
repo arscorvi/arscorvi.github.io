@@ -1,1 +1,1 @@
-Coding projects and miscellaneous snippets.
+Coding projects, miscellaneous snippets, and commentary on design.

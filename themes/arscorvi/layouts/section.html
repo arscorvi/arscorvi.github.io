@@ -2,7 +2,7 @@
 {{ partial "back_link.html" .}}
 
   {{ .Content }}
-  {{ range .Pages.ByDate }}
+  {{ range .Pages.ByDate.Reverse }}
 
 <ul>
     <li>{{ .Page.Date | time.Format .Site.Params.DateFormat }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
