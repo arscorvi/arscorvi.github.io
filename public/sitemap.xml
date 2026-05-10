@@ -2,44 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/misc/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/code/choosing-a-palette/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/code/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/design/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/</loc>
+    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/misc/</loc>
     <lastmod>2026-04-25T16:46:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/misc/reading/</loc>
     <lastmod>2026-04-25T16:46:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/misc/reading/</loc>
-    <lastmod>2026-04-25T16:46:53+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/code/</loc>
+    <loc>https://example.org/code/building-arscorvi/</loc>
     <lastmod>2026-04-21T16:54:24+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/code/building-arscorvi/</loc>
-    <lastmod>2026-04-21T16:54:24+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/current/</loc>
+    <loc>https://example.org/characters/</loc>
     <lastmod>2026-04-17T14:04:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/characters/levi/</loc>
+    <loc>https://example.org/tags/current/</loc>
     <lastmod>2026-04-17T14:04:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/characters/levi/</loc>
     <lastmod>2026-04-17T14:04:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/characters/yuri/</loc>
+    <loc>https://example.org/characters/yuri/</loc>
     <lastmod>2026-04-17T14:04:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/characters/</loc>
-    <lastmod>2026-04-17T13:59:17+01:00</lastmod>
+    <loc>https://example.org/artwork/</loc>
   </url><url>
-    <loc>http://localhost:1313/artwork/</loc>
+    <loc>https://example.org/essays/</loc>
   </url><url>
-    <loc>http://localhost:1313/essays/</loc>
+    <loc>https://example.org/recommendations/</loc>
   </url><url>
-    <loc>http://localhost:1313/recommendations/</loc>
+    <loc>https://example.org/reviews/</loc>
   </url><url>
-    <loc>http://localhost:1313/reviews/</loc>
-  </url><url>
-    <loc>http://localhost:1313/worldbuilding/</loc>
+    <loc>https://example.org/worldbuilding/</loc>
   </url>
 </urlset>

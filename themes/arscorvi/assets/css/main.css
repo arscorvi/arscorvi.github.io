@@ -74,6 +74,7 @@ div.highlight {
 
 .palette {
 	display: flex;
+	max-width: 512px;
 }
 
 .palette .color {

@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+{{ .Content }}
+
+<ul>
+    <li><b>PROJECTS</b></li>
+    <ul>
+    <li><b>Nothing here yet!</b></li>
+    </ul>
+</ul>
+
+<ul>
+    <li><b>SNIPPETS</b></li>
+    <ul>
+    <li><b>Nothing here yet!</b></li>
+    </ul>
+</ul>
+
+<ul>
+    <li><b>DESIGN</b></li>
+    <ul>
+  {{ range ($.Site.GetPage "tags" "design").Pages.ByDate.Reverse }}
+    <li>{{ .Page.Date | time.Format .Site.Params.DateFormat }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ end }}
+    </ul>
+</ul>
+
+{{ end }}
