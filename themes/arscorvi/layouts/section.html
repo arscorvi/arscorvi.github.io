@@ -4,9 +4,8 @@
   {{ .Content }}
   {{ range .Pages.ByDate.Reverse }}
 
-<ul>
-    <li>{{ .Page.Date | time.Format .Site.Params.DateFormat }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-</ul>
+
+    <li style="margin-left: 40px;">{{ .Page.Date | time.Format .Site.Params.DateFormat }} <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 
   {{ end }}
 {{ end }}
