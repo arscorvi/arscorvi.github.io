@@ -50,11 +50,11 @@ div.highlight {
 }
 
 .md-columns > div {
-	flex: 1 1;
-	margin: 0rem 0;
-	width: 100%;
-	min-width: 40em;
-	padding: 0 1rem;
+    flex: 1 1 1;
+    margin: 1rem 0;
+    min-width: 100px;
+    max-width: 40em;
+    padding: 0 1rem;
 }
 
 .md-columns .markdown-inner {

@@ -2,10 +2,9 @@
 <div class="md-columns">
 {{ range split .Inner "<--->" }}
 {{ printf "<div class=\"markdown-inner\">" | htmlUnescape | safeHTML }}
-<div style="max-width: 40em;">
+<div>
 {{ . | safeHTML }}
 </div>
 {{ printf "</div>" | htmlUnescape | safeHTML }}
 {{ end }}
 </body>
-</div>
