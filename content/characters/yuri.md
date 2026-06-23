@@ -47,7 +47,7 @@ It's been a few years since then, and he's adapted well enough to corporate life
 <--->
 
 #### CROW'S NOTES
-<div class="box">
+<div class="notes">
 I made Yuri Stratos after returning to Space Station 13's Goonstation server after a brief hiatus, and he was never intended to be anything more than an easily identifiable avatar. I picked the name from a mixture of sources: his given name was taken from <i>Yuri Gagarin</i>, the Soviet cosmonaut (in spite of the character not being Russian in the slightest), whilst his surname was shamelessly lifted from <i>Mobile Suit Gundam 00</i>. I couldn't come up with anything remarkably unique when designing him, owing to the fact that there was very little intent behind the design to begin with, so I opted for the oft overused cliché of making him albino.
 
 What ended up happening, however, is that Yuri quickly became the default face of the personae I play in Goonstation, and remains to-date the one character that I feel most connected to and am most consistently associated with. A lot of this is due to the fact that it was only after that aforementioned hiatus that I began to earnestly engage with the community on a more personal level — participating more openly, making connections, and the like — and that, by not giving my character a particularly restrictive playstyle or background, it was possible for me to engage with more of the game's systems and mechanics than I had done previously.

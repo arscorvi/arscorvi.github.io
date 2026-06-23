@@ -49,7 +49,7 @@ Since then, he's done little but work tirelessly without rest. There's scant few
 <--->
 
 #### CROW'S NOTES
-<div class="box">
+<div class="notes">
 Levi Ignis is a character that I shamelessly adapted from the quartet of elemental gods/deities that make up the pantheon of one of my older worldbuilding exercises; with a name like <i>Ignis</i>, it should come as no surprise that he's styled after the god of fire, and this influenced a great deal of his character. His temperament, his palette, and his overall themes are a direct result of this, but it was something of a challenge to adapt the idea from a fantasy setting to science fiction.
 
 At first, he went through a few iterations — chiefly about his origins, his age, and other foundational details — before I settled on his current design. He soon ended up becoming a fully-fledged character in his own right, and I quickly abandoned any references to his other elemental siblings; <i>Aquae</i>, <i>Terra</i>, and <i>Venti</i>, though they may one day get their own profiles.

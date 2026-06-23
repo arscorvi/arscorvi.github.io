@@ -46,7 +46,7 @@ Fusce volutpat sem vel diam venenatis sodales. Donec consectetur ornare tincidun
 <--->
 
 #### CROW'S NOTES
-<div class="box">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et arcu pulvinar, iaculis sem eu, tempus augue. Pellentesque non ligula eu turpis ultricies accumsan. Pellentesque tellus leo, blandit vitae tellus non, gravida cursus ligula. Cras ultricies velit nec diam pharetra tincidunt. Duis quis neque auctor, congue enim et, finibus urna. Pellentesque sit amet odio mi. Sed dolor dui, luctus a justo a, vestibulum bibendum ante. Etiam interdum ante et nisi elementum aliquet.
+<div class="notes">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et arcu pulvinar, iaculis sem eu, tempus augue. Pellentesque non ligula eu turpis ultricies accumsan. Pellentesque tellus leo, blandit vitae tellus non, gravida cursus ligula. Cras ultricies velit nec diam pharetra tincidunt. Duis quis neque auctor, congue enim et, finibus urna. Pellentesque sit amet odio mi. Sed dolor dui, luctus a justo a, vestibulum bibendum ante. Etiam interdum ante et nisi elementum aliquet.
 
 Fusce volutpat sem vel diam venenatis sodales. Donec consectetur ornare tincidunt. In faucibus tortor id tortor tincidunt cursus. Curabitur id pharetra leo, venenatis maximus eros. Suspendisse quis tristique purus, vitae tempus ante. Integer varius turpis consequat, interdum risus nec, volutpat elit. Nam ultrices nisi orci, at convallis tellus volutpat vel. Nunc lobortis neque eu urna pretium lobortis. Quisque nec neque ut odio varius cursus in quis magna.
 

@@ -5,7 +5,7 @@ title = 'A Death in the Family — Karl Ove Knausgård'
 +++
 
 #### PREFACE
-<div class="box">
+<div class="notes">
 This review was originally written on January 15th, 2025. I'm not particularly happy with it, as is so often the case with my writing, and I fully intend to rewrite it in the future. Nevertheless, the original text is being kept here for archival purposes.
 </div>
 

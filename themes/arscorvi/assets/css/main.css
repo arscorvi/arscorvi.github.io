@@ -13,11 +13,16 @@ body {
     color: var(--foreground-color);
     font-family: monospace;
 	max-width: 40em;
+	line-height: 1.2;
 }
 
 a {
     color: var(--link-color);
     text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-transform: uppercase;
 }
 
 hr {
@@ -32,11 +37,7 @@ blockquote {
   	border-left: 1px solid var(--link-color);
 }
 
-div.highlight {
-	min-width: fit-content;
-}
-
-.box {
+.notes {
     color: var(--gray-color);
   	margin: 20px 0 30px;
   	padding-left: 20px;
@@ -78,9 +79,9 @@ div.highlight {
 }
 
 .palette .color {
-  text-align: center;
-  vertical-align:center;
-  width: 128px;
-  height: 64px;
-  line-height: 64px;
+	text-align: center;
+	vertical-align:center;
+	width: 128px;
+	height: 64px;
+	line-height: 64px;
 }
