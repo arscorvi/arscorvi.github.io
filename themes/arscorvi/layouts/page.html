@@ -1,5 +1,8 @@
 {{ define "main" }}
-{{ partial "back_link.html" .}}
+<div class="navigation">
+  <div>{{ partial "back_link.html" .}}</div>
+  <div>{{ .Page.Date | time.Format .Site.Params.DateFormat }}</div>
+</div>
 
   <h3>{{ .Title }}</h3>
 

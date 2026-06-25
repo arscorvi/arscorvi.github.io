@@ -59,8 +59,7 @@ blockquote {
 }
 
 .md-columns .markdown-inner {
-	margin-top: 0;
-	margin-bottom: 0;
+	margin: 0;
 }
 
 .palettebar {
@@ -84,4 +83,10 @@ blockquote {
 	width: 128px;
 	height: 64px;
 	line-height: 64px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  max-width: 40em;
 }
