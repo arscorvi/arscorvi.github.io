@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Design on ARSCORVI</title>
-    <link>https://example.org/tags/design/</link>
-    <description>Recent content in Design on ARSCORVI</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Choosing a Palette</title>
-      <link>https://example.org/code/choosing-a-palette/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://example.org/code/choosing-a-palette/</guid>
-      <description>&lt;p&gt;When it comes to choosing a palette for a project, there are too many options. A lot of these options and choices are naturally narrowed down by the both the core of the project and its scope; pixel art, for example, allows for the use of a breadth of colours — various shades, highlights, and supporting hues — to set the tone or convey a particular feeling or mood. When it comes to designing websites, however, there&amp;rsquo;s rarely any need (other than for an a bit of artistic flair, perhaps) to have more than a few base colours.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Building arscorvi.github.io</title>
-      <link>https://example.org/code/building-arscorvi/</link>
-      <pubDate>Tue, 21 Apr 2026 16:54:24 +0100</pubDate>
-      <guid>https://example.org/code/building-arscorvi/</guid>
-      <description>&lt;p&gt;I like making websites.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always liked making websites. I wouldn&amp;rsquo;t necessarily consider myself a designer, developer, or coder — these are all words that I would use to describe someone who does this with much more frequency and demonstrable ability than I do — but I do enjoy making private little corners of the internet for my things. When it comes to languages, HTML and CSS are the ones that I am most familiar with for as long as I can remember; I used my rudimentary understanding of these languages as far back as the age of 14-years-old to design various little blurbs and rulesets for the games that I played and hosted, and that knowledge never really went away.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Design on ARSCORVI</title>
+		<link>https://example.org/tags/design/</link>
+		<description>Recent content in Design on ARSCORVI</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://example.org/tags/design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Choosing a Palette</title>
+				<link>https://example.org/code/choosing-a-palette/</link>
+				<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+				<guid>https://example.org/code/choosing-a-palette/</guid>
+				<description>&lt;p&gt;When it comes to choosing a palette for a project, there are too many options. A lot of these options and choices are naturally narrowed down by the both the core of the project and its scope; pixel art, for example, allows for the use of a breadth of colours — various shades, highlights, and supporting hues — to set the tone or convey a particular feeling or mood. When it comes to designing websites, however, there&amp;rsquo;s rarely any need (other than for an a bit of artistic flair, perhaps) to have more than a few base colours.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Building arscorvi.github.io</title>
+				<link>https://example.org/code/building-arscorvi/</link>
+				<pubDate>Tue, 21 Apr 2026 16:54:24 +0100</pubDate>
+				<guid>https://example.org/code/building-arscorvi/</guid>
+				<description>&lt;p&gt;I like making websites.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always liked making websites. I wouldn&amp;rsquo;t necessarily consider myself a designer, developer, or coder — these are all words that I would use to describe someone who does this with much more frequency and demonstrable ability than I do — but I do enjoy making private little corners of the internet for my things. When it comes to languages, HTML and CSS are the ones that I am most familiar with for as long as I can remember; I used my rudimentary understanding of these languages as far back as the age of 14-years-old to design various little blurbs and rulesets for the games that I played and hosted, and that knowledge never really went away.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
