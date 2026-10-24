@@ -48,5 +48,12 @@
 				<guid>http://localhost:1313/code/building-arscorvi/</guid>
 				<description>&lt;p&gt;I like making websites.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve always liked making websites. I wouldn&amp;rsquo;t necessarily consider myself a designer, developer, or coder — these are all words that I would use to describe someone who does this with much more frequency and demonstrable ability than I do — but I do enjoy making private little corners of the internet for my things. When it comes to languages, HTML and CSS are the ones that I am most familiar with for as long as I can remember; I used my rudimentary understanding of these languages as far back as the age of 14-years-old to design various little blurbs and rulesets for the games that I played and hosted, and that knowledge never really went away.&lt;/p&gt;</description>
 			</item>
+			<item>
+				<title>SS13 — Levi Ignis</title>
+				<link>http://localhost:1313/characters/levi/</link>
+				<pubDate>Fri, 17 Apr 2026 14:04:12 +0100</pubDate>
+				<guid>http://localhost:1313/characters/levi/</guid>
+				<description>&lt;body style=&#34;max-width: 100%;&#34;&gt;&#xD;&#xA;&lt;div class=&#34;md-columns&#34;&gt;&#xD;&#xA;&lt;div class=&#34;markdown-inner&#34;&gt;&#xD;&#xA;&lt;div&gt;&#xD;&#xA;&lt;h4 id=&#34;overview&#34;&gt;OVERVIEW&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;AGE&lt;/strong&gt;: 27-years-old&lt;br&gt;&#xA;&lt;strong&gt;RACE&lt;/strong&gt;: Human&lt;br&gt;&#xA;&lt;strong&gt;GENDER&lt;/strong&gt;: Male&lt;br&gt;&#xA;&lt;strong&gt;PROFESSION&lt;/strong&gt;: Medical Doctor&lt;br&gt;&#xA;&lt;strong&gt;BACKGROUND&lt;/strong&gt;: Hot-headed Lapdog&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;A tempermental man most often seen working within the station&amp;rsquo;s medical department. Fiercely loyal to Nanotrasen and its interests, he can be a little unforgiving when it comes to matters of protocol and workplace security and is often angered by his colleague&amp;rsquo;s reckless behaviour. This underlying temper, however, is little more than a reluctant mask; in truth, he&amp;rsquo;s soft, caring, and compassionate, and will freely throw himself in harm&amp;rsquo;s way for the sake of others.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
