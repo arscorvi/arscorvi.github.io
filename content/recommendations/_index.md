@@ -1,6 +1,6 @@
-+++
-title = 'RECOMMENDATIONS'
-+++
+---
+title: RECOMMENDATIONS
+---
 
 Various book recommendations.
 

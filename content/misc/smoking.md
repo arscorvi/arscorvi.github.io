@@ -1,8 +1,8 @@
-+++
-date = '2026-05-13'
-draft = false
-title = 'On Smoking'
-+++
+---
+date: 2026-05-13
+title: On Smoking
+draft: false
+---
 
 <p style="color: var(--red-color);"><b>CONTENT WARNING:</b> THIS PAGE CONTAINS REFERENCES TO SELF-HARM.</p>
 

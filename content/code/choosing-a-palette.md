@@ -1,9 +1,9 @@
-+++
-date = '2026-05-10'
-draft = false
-title = 'Choosing a Palette'
-tags = 'design'
-+++
+---
+date: 2026-05-10
+title: Choosing a Palette
+tags: design
+draft: false
+---
 
 When it comes to choosing a palette for a project, there are too many options. A lot of these options and choices are naturally narrowed down by the both the core of the project and its scope; pixel art, for example, allows for the use of a breadth of colours — various shades, highlights, and supporting hues — to set the tone or convey a particular feeling or mood. When it comes to designing websites, however, there's rarely any need (other than for an a bit of artistic flair, perhaps) to have more than a few base colours.
 

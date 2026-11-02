@@ -1,9 +1,9 @@
-+++
-date = '2026-04-17T14:04:12+01:00'
-draft = false
-title = 'SS13 — Levi Ignis'
-tags = 'current'
-+++
+---
+date: 2026-04-17T14:04:12+01:00
+title: SS13 — Levi Ignis
+draft: false
+tags: current
+---
 
 {{% columns %}}
 

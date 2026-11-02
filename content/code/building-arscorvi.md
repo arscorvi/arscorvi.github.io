@@ -1,9 +1,9 @@
-+++
-date = '2026-04-21T16:54:24+01:00'
-draft = false
-title = 'Building arscorvi.github.io'
-tags = 'design'
-+++
+---
+date: 2026-04-21T16:54:24+01:00
+title: Building arscorvi.github.io
+tags: design
+draft: false
+---
 
 I like making websites.
 

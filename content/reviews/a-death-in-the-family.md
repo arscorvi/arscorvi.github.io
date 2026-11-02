@@ -1,8 +1,8 @@
-+++
-date = '2026-05-24T13:50:54+01:00'
-draft = false
-title = 'A Death in the Family — Karl Ove Knausgård'
-+++
+---
+date: 2026-05-24T13:50:54+01:00
+title: A Death in the Family — Karl Ove Knausgård
+draft: false
+---
 
 #### PREFACE
 <div class="notes">

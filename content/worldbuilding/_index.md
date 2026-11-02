@@ -1,6 +1,6 @@
-+++
-title = 'WORLDBUILDING'
-+++
+---
+title: WORLDBUILDING
+---
 
 Worlds and settings that I have created over the years.
 

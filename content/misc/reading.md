@@ -1,8 +1,8 @@
-+++
-date = '2026-04-25T16:46:53+01:00'
-draft = false
-title = 'Reading for the Sake of Writing'
-+++
+---
+date: 2026-04-25T16:46:53+01:00
+title: Reading for the Sake of Writing
+draft: false
+---
 
 I don't read as much as I should. I have stacks upon stacks of books — spilling out of a bookshelf and across my desk, my coffee table, my other shelves — that are, for the most part, unread. Like many readers, I have a peculiar habit of frequently adding to my library and never quite catching up with it, and the time that I actually set aside for reading is becoming less and less.
 

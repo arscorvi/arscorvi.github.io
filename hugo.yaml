@@ -1,0 +1,18 @@
+baseURL: https://example.org/
+locale: en-us
+title: ARSCORVI
+theme: arscorvi
+
+taxonomies:
+  tag: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: onedark
+    
+caches:
+  images:
+    dir: :cacheDir/images

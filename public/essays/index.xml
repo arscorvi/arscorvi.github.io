@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>ESSAYS on ARSCORVI</title>
-		<link>http://localhost:1313/essays/</link>
+		<link>https://example.org/essays/</link>
 		<description>Recent content in ESSAYS on ARSCORVI</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,6 +10,6 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/essays/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/essays/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
