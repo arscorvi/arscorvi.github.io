@@ -21,7 +21,7 @@ My main CSS body tag has the max-width property set to 40em; this keeps everythi
 
 ```css
 body {
-    background: var(--background-color);
+    background: var(--bg);
     color: var(--foreground-color);
     font-family: monospace;
 }

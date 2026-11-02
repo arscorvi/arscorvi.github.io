@@ -11,7 +11,7 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    style: onedark
+    style: github-dark
     
 caches:
   images:

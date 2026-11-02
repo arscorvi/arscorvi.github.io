@@ -4,9 +4,10 @@ title: A Death in the Family — Karl Ove Knausgård
 draft: false
 ---
 
-#### PREFACE
-<div class="notes">
-This review was originally written on January 15th, 2025. I'm not particularly happy with it, as is so often the case with my writing, and I fully intend to rewrite it in the future. Nevertheless, the original text is being kept here for archival purposes.
+<div class="muted">
+
+>This review was originally written on January 15th, 2025. I'm not particularly happy with it, as is so often the case with my writing, and I fully intend to rewrite it in the future. Nevertheless, the original text is being kept here for archival purposes.
+
 </div>
 
 I first encountered the work of Karl Ove Knausgård whilst I was browsing the shelves at my local bookshop; there, a lone copy of the final entry in his *'My Struggle'* series, aptly named *'The End'*, caught my eye, and after scanning the book's pages for only a moment, I made a mental note, went home, and promptly ordered the entirety of the series.

@@ -1,16 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>Building arscorvi.github.io | ARSCORVI</title>
 
-      <link rel="stylesheet" href="/css/main.min.e799e1c1c72f20395a08d0051ffaecf1f961c86e6fe970db15f4eb65b388ef80.css" integrity="sha256-55nhwccvIDlaCNAFH/rs8flhyG5v6XDbFfTrZbOI74A=" crossorigin="anonymous">
 
 
-        <script src="/js/main.23cd0c7d837263b9eaeb96ee2d9ccfa2969daa3fa00fa1c1fe8701a9b87251a1.js" integrity="sha256-I80MfYNyY7nq65buLZzPopadqj&#43;gD6HB/ocBqbhyUaE=" crossorigin="anonymous"></script>
-
-
+<link rel="stylesheet" href='/css/style.min.0148bcb8f82bf76ad188706f80dc9a13dc106ab5fa665b70dcd630528b6ed3c0.css'>
 </head>
 <body>
   <main>
@@ -21,7 +18,8 @@
   <div>21-4-2026</div>
 </div>
 
-  <h3>Building arscorvi.github.io</h3>
+  <h4>Building arscorvi.github.io</h4>
+  <hr>
 
   <p>I like making websites.</p>
 <p>I&rsquo;ve always liked making websites. I wouldn&rsquo;t necessarily consider myself a designer, developer, or coder — these are all words that I would use to describe someone who does this with much more frequency and demonstrable ability than I do — but I do enjoy making private little corners of the internet for my things. When it comes to languages, HTML and CSS are the ones that I am most familiar with for as long as I can remember; I used my rudimentary understanding of these languages as far back as the age of 14-years-old to design various little blurbs and rulesets for the games that I played and hosted, and that knowledge never really went away.</p>
@@ -30,50 +28,50 @@
 <p>Then I found Hugo. A static website builder was much more my style; I had no need for dynamic elements, I could freely design and edit things to be just the way that I wanted them, because Hugo gives you total control, and it scratched an itch that I had forgotten was there. But it had been <em>years</em> since I exercised my web design and coding muscles, and I didn&rsquo;t know what I was doing.</p>
 <p>It was a headache. I felt out of my depth. I read document after document, followed tutorials, browsed support forums, and made a veritable Frankenstein&rsquo;s monster of HTML, CSS, and Hugo shortcodes. Old coding habits crept back in. My attempts at problem solving were the equivalent of throwing the baby out with the bath water; I jumped to conclusions that made little to no sense whatsoever without showing any signs of slowing down, taking a sip of coffee, and reviewing the problem from a less frustrated perspective. The one and only example I am willing to share is this:</p>
 <p>My main CSS body tag has the max-width property set to 40em; this keeps everything neatly organised at a size that I like. Unfortunately, my character profiles (and most of my entries in general) can run a little long, so I wanted to have the ability to make separate, 40em width columns. I did this by using a shortcode — a pre-determined template to embed/insert various elements, chiefly HTML — and&hellip; Broke the website. The columns were there, yes, but they were all haphazardly stuffed within the pre-determined max width. My solution was to set the max-width property for the p tag rather than the body:</p>
-<div class="highlight"><pre tabindex="0" style="color:#abb2bf;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#e06c75">body</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">background</span>: <span style="color:#61afef;font-weight:bold">var</span>(<span style="color:#56b6c2">--</span><span style="color:#e06c75">background</span><span style="color:#56b6c2">-</span><span style="color:#e5c07b">color</span>);
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">color</span>: <span style="color:#61afef;font-weight:bold">var</span>(<span style="color:#56b6c2">--</span><span style="color:#e06c75">foreground</span><span style="color:#56b6c2">-</span><span style="color:#e5c07b">color</span>);
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">font-family</span>: <span style="color:#e5c07b">monospace</span>;
+<div class="highlight"><pre tabindex="0" style="color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#7ee787">body</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">background</span>: <span style="color:#d2a8ff;font-weight:bold">var</span>(<span style="color:#ff7b72;font-weight:bold">--</span>bg);
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">color</span>: <span style="color:#d2a8ff;font-weight:bold">var</span>(<span style="color:#ff7b72;font-weight:bold">--</span>foreground<span style="color:#ff7b72;font-weight:bold">-</span><span style="color:#79c0ff">color</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">font-family</span>: <span style="color:#79c0ff">monospace</span>;
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#e06c75">p</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">max-width</span>: <span style="color:#d19a66">40</span><span style="color:#e5c07b">em</span>;
+</span></span><span style="display:flex;"><span><span style="color:#7ee787">p</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">max-width</span>: <span style="color:#a5d6ff">40</span><span style="color:#ff7b72">em</span>;
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>This gave me the desired results, yes, but it broke everything else, too. Lists and horizontal rules were spilling out to absurd lengths and it was, frankly, <em>ugly</em>. I panicked. I tried changing the properties in the CSS that were responsible for the columns with the !important flag:</p>
-<div class="highlight"><pre tabindex="0" style="color:#abb2bf;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#e5c07b">md-columns</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">display</span>: <span style="color:#e5c07b">flex</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">flex-wrap</span>: <span style="color:#e5c07b">wrap</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">margin-left</span>: <span style="color:#d19a66">-1</span><span style="color:#e5c07b">rem</span>;
+<div class="highlight"><pre tabindex="0" style="color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#f0883e;font-weight:bold">md-columns</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">display</span>: <span style="color:#79c0ff">flex</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">flex-wrap</span>: <span style="color:#79c0ff">wrap</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">margin-left</span>: <span style="color:#a5d6ff">-1</span><span style="color:#ff7b72">rem</span>;
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>.<span style="color:#e5c07b">md-columns</span> <span style="color:#56b6c2">&gt;</span> <span style="color:#e06c75">div</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">flex</span>: <span style="color:#d19a66">1</span> <span style="color:#d19a66">1</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">margin</span>: <span style="color:#d19a66">0</span><span style="color:#e5c07b">rem</span> <span style="color:#d19a66">0</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">width</span>: <span style="color:#d19a66">100</span><span style="color:#e5c07b">%</span> <span style="color:#7f848e">!important</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">min-width</span>: <span style="color:#d19a66">40</span><span style="color:#e5c07b">em</span> <span style="color:#7f848e">!important</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">padding</span>: <span style="color:#d19a66">0</span> <span style="color:#d19a66">1</span><span style="color:#e5c07b">rem</span>;
+</span></span><span style="display:flex;"><span>.<span style="color:#f0883e;font-weight:bold">md-columns</span> <span style="color:#ff7b72;font-weight:bold">&gt;</span> <span style="color:#7ee787">div</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">flex</span>: <span style="color:#a5d6ff">1</span> <span style="color:#a5d6ff">1</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">margin</span>: <span style="color:#a5d6ff">0</span><span style="color:#ff7b72">rem</span> <span style="color:#a5d6ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">width</span>: <span style="color:#a5d6ff">100</span><span style="color:#ff7b72">%</span> <span style="color:#8b949e;font-weight:bold;font-style:italic">!important</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">min-width</span>: <span style="color:#a5d6ff">40</span><span style="color:#ff7b72">em</span> <span style="color:#8b949e;font-weight:bold;font-style:italic">!important</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">padding</span>: <span style="color:#a5d6ff">0</span> <span style="color:#a5d6ff">1</span><span style="color:#ff7b72">rem</span>;
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>.<span style="color:#e5c07b">md-columns</span> .<span style="color:#e5c07b">markdown-inner</span> {
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">margin-top</span>: <span style="color:#d19a66">0</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#c678dd">margin-bottom</span>: <span style="color:#d19a66">0</span>;
+</span></span><span style="display:flex;"><span>.<span style="color:#f0883e;font-weight:bold">md-columns</span> .<span style="color:#f0883e;font-weight:bold">markdown-inner</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">margin-top</span>: <span style="color:#a5d6ff">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff7b72">margin-bottom</span>: <span style="color:#a5d6ff">0</span>;
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div><p>But this did nothing. Of course it did nothing! I didn&rsquo;t know what I was <em>doing</em>! Frustrated and tired, my immediate solution to this problem was to simply have the pages that required columns to load their own CSS file. I spent half an hour trying to remember how to do this, quickly realised that I had forgotten entirely, and then spent a further hour reading on how to make it happen. I asked friends for help.</p>
 <p>And then I realised, after much trial and error, that I was overthinking things. I could just amend the shortcode&rsquo;s HTML template to the following to get the desired results:</p>
-<div class="highlight"><pre tabindex="0" style="color:#abb2bf;background-color:#282c34;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#e06c75">body</span> <span style="color:#e06c75">style</span><span style="color:#56b6c2">=</span><span style="color:#98c379">&#34;max-width: 100%;&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#e06c75">div</span> <span style="color:#e06c75">class</span><span style="color:#56b6c2">=</span><span style="color:#98c379">&#34;md-columns&#34;</span>&gt;
-</span></span><span style="display:flex;"><span>{{ range split .Inner &#34;&lt;<span style="color:#e06c75">---</span>&gt;&#34; }}
-</span></span><span style="display:flex;"><span>{{ printf &#34;&lt;<span style="color:#e06c75">div</span> <span style="color:#e06c75">class</span><span style="color:#56b6c2">=</span><span style="color:#98c379">\&#34;markdown-inner\&#34;</span>&gt;&#34; | htmlUnescape | safeHTML }}
-</span></span><span style="display:flex;"><span>&lt;<span style="color:#e06c75">div</span> <span style="color:#e06c75">style</span><span style="color:#56b6c2">=</span><span style="color:#98c379">&#34;max-width: 40em;&#34;</span>&gt;
+<div class="highlight"><pre tabindex="0" style="color:#e6edf3;background-color:#0d1117;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#7ee787">body</span> style<span style="color:#ff7b72;font-weight:bold">=</span><span style="color:#a5d6ff">&#34;max-width: 100%;&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#7ee787">div</span> class<span style="color:#ff7b72;font-weight:bold">=</span><span style="color:#a5d6ff">&#34;md-columns&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>{{ range split .Inner &#34;&lt;<span style="color:#7ee787">---</span>&gt;&#34; }}
+</span></span><span style="display:flex;"><span>{{ printf &#34;&lt;<span style="color:#7ee787">div</span> class<span style="color:#ff7b72;font-weight:bold">=</span><span style="color:#a5d6ff">\&#34;markdown-inner\&#34;</span>&gt;&#34; | htmlUnescape | safeHTML }}
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#7ee787">div</span> style<span style="color:#ff7b72;font-weight:bold">=</span><span style="color:#a5d6ff">&#34;max-width: 40em;&#34;</span>&gt;
 </span></span><span style="display:flex;"><span>{{ . | safeHTML }}
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#e06c75">div</span>&gt;
-</span></span><span style="display:flex;"><span>{{ printf &#34;&lt;/<span style="color:#e06c75">div</span>&gt;&#34; | htmlUnescape | safeHTML }}
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#7ee787">div</span>&gt;
+</span></span><span style="display:flex;"><span>{{ printf &#34;&lt;/<span style="color:#7ee787">div</span>&gt;&#34; | htmlUnescape | safeHTML }}
 </span></span><span style="display:flex;"><span>{{ end }}
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#e06c75">body</span>&gt;
-</span></span><span style="display:flex;"><span>&lt;/<span style="color:#e06c75">div</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#7ee787">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#7ee787">div</span>&gt;
 </span></span></code></pre></div><p>In classic web design fashion, however, this ruined something else: mobile view. I can&rsquo;t remember how I fixed that, but I did. And then it was simply a matter of polishing up the website&rsquo;s page structure, tidying up files, and settling on a colour scheme, something minimal and pleasing.</p>
 <p>All in all, it took me a couple of months from start to finish to get this website designed, built, and deployed, but it only took so long because of a rather lengthy break in the middle wherein I forgot that I wanted to have a website to begin with and, upon returning to the project, was left wondering what on earth I was thinking only a few months ago and decided to start from scratch.</p>
 <p>I guess it only took a few days, then.</p>

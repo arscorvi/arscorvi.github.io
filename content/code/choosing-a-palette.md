@@ -33,7 +33,6 @@ The fact remains that websites, unlike pixel art, simply do not need *that* many
 
 Eventually, I settled on one particular palette which, at the time of writing, forms the basis of this website's design:
 
-### [slowshout16 — Created by Phenomenician](https://lospec.com/palette-list/slowshout16)
 <div class="palette">
     <div class="color" style="background:#23222f;">
         #2322f
@@ -91,6 +90,13 @@ Eventually, I settled on one particular palette which, at the time of writing, f
         </div>
 </div>
 
+<div class="muted">
+
+>[slowshout16](https://lospec.com/palette-list/slowshout16)\
+>Created by Phenomenician
+
+</div>
+
 I love the choice of colours here; I love the contrast, the muted hues, and the overall warmth that it brings even to the traditionally colder shades. It's one of the more pleasing palettes I've seen.
 
 But do I *really* need all of those colours? Do I need to incorporate *all* of them? What if I want something a little bit darker, for the sake of contrast? A small amount of tweaking — mostly just by shifting the brightness up or down — and trimming of unnecessary colours led to the following (and currently final) palette:
@@ -114,11 +120,12 @@ The first two colours — background and text, respectively — are high contras
 
 I adore the range of colours in Phenomenician's palette, and it was an easy choice to make when I was typing up the CSS. There were other options, too, of course, but it's unlikely that I'll be changing the design of this site any time soon; nonetheless, I'll list a few of my favourite palettes below, along with the resources by which I found them.
 
----
-
 #### OTHER PALETTES
 
-### [Loop Hero](https://lospec.com/palette-list/loop-hero)
+---
+
+<br>
+
 <div class="palette">
     <div class="color" style="background:#000000;">
         #000000
@@ -165,7 +172,7 @@ I adore the range of colours in Phenomenician's palette, and it was an easy choi
     <div class="color" style="background:#9fa089;">
         #9fa089
         </div>
-    <div class="color" style="background:#a4bec1;">
+    <div class="color" style="background:#a4bec1; color: #121118;">
         #a4bec1
         </div>
     <div class="color" style="background:#dbce2d; color: #121118;">
@@ -176,11 +183,17 @@ I adore the range of colours in Phenomenician's palette, and it was an easy choi
         </div>
 </div>
 
-A palette derived from Four Quarters' [game of the same name.](https://store.steampowered.com/app/1282730/Loop_Hero/)
+<div class="muted">
 
-### [Lost Century — Created by SurrealEmber](https://lospec.com/palette-list/lost-century)
+> [Loop Hero](https://lospec.com/palette-list/loop-hero)\
+> Submitted by BigPotato
+>
+> A palette derived from Four Quarters' [game of the same name.](https://store.steampowered.com/app/1282730/Loop_Hero/)
+
+</div>
+
 <div class="palette">
-    <div class="color" style="background:#d1b187;">
+    <div class="color" style="background:#d1b187; color: #121118;">
         #d1b187
         </div>
     <div class="color" style="background:#c77b58;">
@@ -236,11 +249,17 @@ A palette derived from Four Quarters' [game of the same name.](https://store.ste
         </div>
 </div>
 
-A muted palette inspired by The Bestiarium of Aloys Zötl.
+<div class="muted">
 
-### [Retrotonic DX — Created by Doph](https://lospec.com/palette-list/retrotronic-dx)
+> [Lost Century](https://lospec.com/palette-list/lost-century)\
+> Created by SurrealEmber
+>
+> A muted palette inspired by The Bestiarium of Aloys Zötl.
+
+</div>
+
 <div class="palette">
-    <div class="color" style="background:#d1bfb0;">
+    <div class="color" style="background:#d1bfb0; color: #121118;">
         #d1bfb0
         </div>
     <div class="color" style="background:#7a9c96;">
@@ -268,15 +287,22 @@ A muted palette inspired by The Bestiarium of Aloys Zötl.
         </div>
 </div>
 
-A nicely desaturated palette with a simple ramp.
+<div class="muted">
 
----
+> [Retrotonic DX](https://lospec.com/palette-list/retrotronic-dx)\
+> Created by Doph
+>
+> A nicely desaturated palette with a simple ramp.
+</div>
 
 #### RESOURCES
 
-### [Coolors](https://coolors.co/)
-An all-in-one palette generation tool. Primarily lists colours in HEX, but also converts to RGB, HSL, CMYK, and others. Provides a wealth of information for any chosen colour — complimentary shades, ramps, and contrast — and also features an image picker tool and trending palettes.
+---
 
-### [Lospec](https://lospec.com/)
-A pixel art focused website featuring a wide range of user made palettes, artwork, tutorials, and more. This is where I draw most of my inspiration from.
+<div class="muted">
 
+> [COOLORS.CO](https://coolors.co/)\
+> An all-in-one palette generation tool. Primarily lists colours in HEX, but also converts to RGB, HSL, CMYK, and others. Provides a wealth of information for any chosen colour — complimentary shades, ramps, and contrast — and also features an image picker tool and trending palettes.
+>
+> [LOSPEC.COM](https://lospec.com/)\
+> A pixel art focused website featuring a wide range of user made palettes, artwork, tutorials, and more. This is where I draw most of my inspiration from.

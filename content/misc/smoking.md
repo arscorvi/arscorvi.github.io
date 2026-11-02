@@ -4,7 +4,7 @@ title: On Smoking
 draft: false
 ---
 
-<p style="color: var(--red-color);"><b>CONTENT WARNING:</b> THIS PAGE CONTAINS REFERENCES TO SELF-HARM.</p>
+<p class="warning">CONTENT WARNING: THIS PAGE CONTAINS REFERENCES TO SELF-HARM.</p>
 
 I never thought that I would grow up to be a smoker. The broad, sweeping landscape of memories from my childhood — so alien to me, now — cherry-picks recollections of days spent without rhyme, reason, or structure; of my brother, my mother, or my father at random; and feeds them to me with an unsteady, coltish hand. By and large, these memories are pleasant ones and not at all unwelcome, with each and every one of them coloured, naturally, by my perception of these events, but also by more fluid concepts and hazy meanings attached to the people in them; in the case of my father, for example, my view of him is dictated by a core set of strangely complimentary tones: the elusive, seemingly forever out-of-reach pedestal of masculinity, safety, and guidance that comes with being a father; my own desire, particularly as I grew, to climb up alongside him atop that peculiar throne to stand, side-by-side, as equals; and the cloying smell of second-hand smoke that has come to suffuse each and every memory with an offensive odour that blurs his figure and shrouds him in a thick, enigmatic haze.
 
@@ -16,9 +16,13 @@ I could easily chalk it up to naivety, the juvenile idea that I would never beco
 
 But how did I come to make that decision? When did I make it? *Why* did I make it?
 
-### Romanticism and Idolisation
+#### Romanticism and Idolisation
 
-I'm afforded only brief snippets of thoughts and memories as to how this habit formed. Chief amongst them is that aforementioned romanticism, something that grew and developed in a wildly uncontrolled fashion in my mid-to-late teenage years, influenced heavily by works such as David Levithan's [The Realm of Possibility](https://www.goodreads.com/book/show/23232). There, a poem opens with the following lines:
+---
+
+I'm afforded only brief snippets of thoughts and memories as to how this habit formed. Chief amongst them is that aforementioned romanticism, something that grew and developed in a wildly uncontrolled fashion in my mid-to-late teenage years, influenced heavily by works such as David Levithan's *[The Realm of Possibility](https://www.goodreads.com/book/show/23232)*. There, a poem opens with the following lines:
+
+<div class="muted">
 
 > *i've never smoked a cigarette \
 > with anyone but jed. \
@@ -33,9 +37,13 @@ I'm afforded only brief snippets of thoughts and memories as to how this habit f
 > darkness. the way i can see jed's eyes \
 > even when there isn't any light.*
 
+</div>
+
 This was a poem that captivated me from start to finish; it shifted my perception of smoking from something that was unpleasant and dangerous to something that was attractive, secretive, romantic, and altogether enticing. I was sixteen-years-old. My identity was effortlessly pliable, shaped in the abstract palms of books, music, films, and poetry. I didn't have to *be* myself, as I had been all of those years of my life up until that point; if I wanted to, if I really, really wanted to, I could be like the boys in the poem. I could be like Daniel. I could be like Jed.
 
 And, oh, how I wanted to be like them! Is it at all surprising that, by the time I bought my first cigarette packet at nineteen, I was still full of these romantic ideals? That I would come to impose rules and restrictions upon myself — one cigarette per week, no more, no less — that were dictated by a later passage in that same damned poem?
+
+<div class="muted">
 
 > *i am willing to smoke the cigarette until \
 > it disappears. jed tells me when it's time to stop. \
@@ -43,11 +51,15 @@ And, oh, how I wanted to be like them! Is it at all surprising that, by the time
 > says one is enough. anyone can do more, \
 > but it will be our thing to do just one.*
 
+</div>
+
 I don't believe so. Nor is it surprising, either, that I failed to stick to that oddly specific rule for very long; as addictive and uplifting as nicotine is, it took little to no time at all for the boundaries to begin to blur and for things to change before I could even realise it. One cigarette a week became two, two became three, and, soon enough, that idyllic restriction had well and truly flown the nest. One cigarette a day. Two cigarettes a day. Three, four, five.
 
 It would be unfair, though, to say that my habit was formed entirely by the influence of David Levithan's poetry, just as it would be unfair to lay any blame upon my father; whilst my romanticism and idolisation of smoking stems almost exclusively from these factors, their abstract nature comes together to form only one of the two more easily definable reasons. The other reason — the more elusive one, the one that hides in dim corners and whimpers, cries, begs not to be noticed or addressed — is intense, all-consuming depression.
 
-### Depression and Self-Harm
+#### Depression and Self-Harm
+
+---
 
 My memories of the years in which I began to smoke are a veritable mess; their landscape is jagged, rising and falling without any discernible pattern, a confusing mixture of clearer, lucid moments that are hidden haphazardly amidst murky, impossible to recognise events, places, and people. These were the years wherein I was first diagnosed with depression after failing to convince my family — and myself, to a degree — that everything was fine, that I was okay, that I had it all under control, and the frequency with which I was smoking was a firm indicator of just how troubled, anxious, and frightened I was; they were a comforting, easily reached for companion during moments of stress. They were a means, in no small amount of ways, to shield myself from what was happening around me. It didn't matter how the day had started, what had happened, nor what was *going* to happen; I could always sneak myself out onto our front porch, light a cigarette, and the world itself would oh-so-kindly grind to a halt and wait, patiently and with great care, for me to drag it down to the filter and discard it. I was able to put myself in a bubble, I was able to stop my worrying, and I was able to live without the burden of that overbearing and ever-present weight of anxiety for the fleeting few minutes it took me to smoke a single cigarette from start to finish.
 
@@ -55,7 +67,9 @@ It didn't really *fix* anything, but it did make me feel better, if only for a m
 
 I've already mentioned that everybody knows that smoking is bad for you, that everybody knows that they're hurting themselves; I was not only keenly aware of this fact, but also strangely enticed by it, mesmerised and comforted — in a way that I still cannot quite understand — by the frustratingly self-destructive notion of doing something, *anything*, that could do me harm. People would parrot warnings, buzzwords, and clinically proven facts to me on a regular basis and I, in my desperation and cocky, self-assured bastardisation of wisdom, would see these things as *good*, as a kind of paradoxical salve for my struggles. I would smoke more, cruelly relishing the fact that I was harming myself, that I was causing myself *suffering*, even if I may not come to feel the effects of that suffering until many, many years into my future; unsurprisingly, I had little to no perception of a future to begin with, back then, and it quickly became a confusing kind of exercise in attempting to screw myself over without ever knowing if I would ultimately succeed.
 
-### Smoking, Nowadays
+#### Smoking, Nowadays
+
+---
 
 I no longer smoke for any of the above reasons; though I undoubtedly considered my reasoning at the time to be sound, just, and without fault, that is no longer the case, and the act of smoking has taken on something of a life of its own. Now, it is nothing more than a comfort and a key part of my day-to-day routine; whatever thought processes went into the formation of my smoking as a habit have long since been lost to the blurry, ill-defined passage of time between then and now.
 

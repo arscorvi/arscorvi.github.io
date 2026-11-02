@@ -1,0 +1,111 @@
+:root {
+    --bg: #121216;
+    --fg: #ededed;
+    --muted: #8c8c8c;
+    --link: #d79348;
+    --warning: #c64331;
+}
+
+body {
+    background: var(--bg);
+    color: var(--fg);
+
+    font-family: Consolas;
+    font-size: 13px;
+    line-height: 1.4;
+
+    max-width: 540px;
+}
+
+a {
+    color: var(--link);
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+}
+
+hr {
+    background-color: var(--link);
+    border: none;
+    height: 1px;
+    width: 50%;
+}
+
+blockquote {
+    margin: 20px 0;
+    padding-left: 20px;
+    border-left: 1px solid var(--link);
+}
+
+pre {
+    color: var(--link);
+    line-height: 1.2;
+}
+
+// The little bar above posts that displays the home button and post date.
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    max-width: 540px;
+}
+
+// The colourful bar on the home page.
+.palettebar {
+    display: flex;
+    padding-left: 13px;
+
+    .color {
+        width: 16px;
+        height: 16px;
+    }
+}
+
+// For rendering palettes within posts.
+.palette {
+    display: flex;
+    max-width: 512px;
+
+    .color {
+        text-align: center;
+        vertical-align: center;
+        width: 128px;
+        height: 64px;
+        line-height: 64px;
+    }
+}
+
+// Content warnings, callouts, etcetera.
+.warning {
+    color: var(--warning);
+    font-weight: bold;
+    text-align: center;
+}
+
+// Sometimes I want muted text.
+.muted {
+    color: var(--muted);
+}
+
+// Responsible for splitting single page posts into multiple columns.
+.md-columns {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -1rem;
+
+    >div {
+        flex: 1 1 1;
+        margin: 1rem 0;
+        min-width: 100px;
+        max-width: 540px;
+        padding: 0 16px;
+    }
+
+    .markdown-inner {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}

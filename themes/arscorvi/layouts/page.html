@@ -4,7 +4,8 @@
   <div>{{ .Page.Date | time.Format .Site.Params.DateFormat }}</div>
 </div>
 
-  <h3>{{ .Title }}</h3>
+  <h4>{{ .Title }}</h4>
+  <hr>
 
   {{ .Content }}
 {{ end }}
